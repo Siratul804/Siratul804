@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently learning **TypeScript.**
 
-- 💬 Ask me about **JavaScript.**
+- 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **islamsiratul@gmail.com**
 
-- ⚡ Fun fact **Words make sentences funny.**
+- ⚡ Funny Facts ** Make Words funny.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
