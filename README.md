@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **M.E.R.N stack**
 
-- 🌱 I’m currently learning **TypeScript.**
+- 🌱 I’m currently learning **Data Structures And Algorithms.**
 
 - 💬 Ask me about **JavaScript**
 
