@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Siratul Islam</h1>
 <h3 align="center">I am a Software Developer who learn things Passionately.😊</h3>
 
-- 🔭 I’m currently working on **M.E.R.N stack**
+- 🔭 I’m currently working on **Software Development**
 
 - 🌱 I’m currently learning **Data Structures And Algorithms.**
 
@@ -10,7 +10,6 @@
 
 - 📫 How to reach me **islamsiratul@gmail.com**
 
-- ⚡ Funny Facts ** Make Words funny.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
