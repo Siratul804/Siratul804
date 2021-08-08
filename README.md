@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Siratul Islam</h1>
-<h3 align="center">I am a Software Developer who learn things Passionately.😊</h3>
+<h3 align="center">I am a Software Developer who learns things Passionately.😊</h3>
 
 - 🔭 I’m currently working on **Software Development**
 
