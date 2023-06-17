@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Siratul Islam</h1>
-<h3 align="center">I am a Software Developer who learns things Passionately.😊</h3>
+<h3 align="center">I am a Software Developer, Graphics Designer, and Video Editor who learns things Passionately.😊</h3>
 
-- 🔭 I’m currently working on **Software Development**
+- 🔭 I’m working on Software Development, Graphics Designing, and Video Editing.
 
-- 🌱 I’m currently learning **Data Structures And Algorithms.**
+- 🌱  I’m currently learning AI technology, Data Structures, and Algorithms.
 
 - 💬 Ask me about **JavaScript**
 
