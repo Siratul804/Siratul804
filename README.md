@@ -1,15 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm Siratul Islam</h1>
-<h3 align="center">I am a Software Developer, Graphics Designer, and Video Editor who learns things Passionately.😊</h3>
+<h3 align="center">I am a creator who creates Software, Images, and Videos—currently Understanding AI tech!</h3>
 
 - 🔭 I’m working on Software Development, Graphics Designing, and Video Editing.
 
-- 🌱  I’m currently learning AI technology, Data Structures, and Algorithms.
+- 🌱 I’m currently learning AI technology, Data Structures, and Algorithms.
 
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about AI Tech.
 
-- 📫 How to reach me **islamsiratul@gmail.com**
-
+- 📫 How to reach me islamsiratul@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
