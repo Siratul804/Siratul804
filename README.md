@@ -3,7 +3,7 @@
 
 <h3 align="center">As a software developer, <br/> I have the power to create tools and solutions that simplify and improve people's lives.</h3>
 <br/>
-<b> Specialization in JavaScript & React: </b> I am an expert in JavaScript and its popular library, React, making them adept at building dynamic and interactive web applications.
+<b> Specialization in JavaScript & React: </b> I am an expert in JavaScript and its popular library, React, making them adept at building dynamic and interactive web applications. <br/>
 
 <b> Full-Stack Proficiency:</b> With knowledge of Node.js, Express.js, MongoDB, and MySQL I possess the skills to develop robust, scalable, and efficient web applications.
 
