@@ -1,14 +1,18 @@
 
 <h1 align="center">Hi 👋, I'm Siratul Islam</h1>
-<h3 align="center">I am a creator who creates Software, Images, and Videos—currently Understanding AI tech!</h3>
+<h3 align="center">As a software developer, I have the power to create tools and solutions that simplify and improve people's lives.</h3>
 
-- 🔭 I’m working on Software Development, Graphics Designing, and Video Editing.
+<b> Specialization in JavaScript & React: </b> I am an expert in JavaScript and its popular library, React, making them adept at building dynamic and interactive web applications.
 
-- 🌱 I’m currently learning AI technology, Data Structures, and Algorithms.
+<b> Full-Stack Proficiency:</b> With knowledge of Node.js, Express.js, MongoDB, and MySQL I possess the skills to develop robust, scalable, and efficient web applications.
 
-- 💬 Ask me about AI Tech.
+<b> Frontend Mastery:</b> Proficiency in HTML, CSS, Bootstrap, and various frontend frameworks allows me to craft visually appealing and user-friendly interfaces.
 
-- 📫 How to reach me islamsiratul@gmail.com
+<b> Web Application Expertise:</b> Whether it's developing, redesigning, or customizing web applications, I have experience ensuring top-notch results.
+
+<b> Web Design and Conversion:</b>  I excel in web design, seamlessly converting designs from PSD to HTML and even to content management systems (CMS) for a polished online presence.
+
+<b> Graphic Design and Video Editing:</b> Beyond coding, I have creative talents that shine in graphic design and video editing, adding a layer of visual appeal and professionalism to projects.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
