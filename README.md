@@ -3,19 +3,18 @@
 
 <h3 align="center">As a software developer, <br/> I have the power to create tools and solutions that simplify and improve people's lives.</h3>
 <br/>
-<b> Specialization in JavaScript & React:</b> I am an expert in JavaScript and its popular library, React, making them adept at building dynamic and interactive web applications.
 
-<br/>
+<p><b> Specialization in JavaScript & React:</b> I am an expert in JavaScript and its popular library, React, making them adept at building dynamic and interactive web applications.</p>
 
-<b> Full-Stack Proficiency:</b> With knowledge of Node.js, Express.js, MongoDB, and MySQL I possess the skills to develop robust, scalable, and efficient web applications.
+<p><b> Full-Stack Proficiency:</b> With knowledge of Node.js, Express.js, MongoDB, and MySQL I possess the skills to develop robust, scalable, and efficient web applications.</p>
 
-<b> Frontend Mastery:</b> Proficiency in HTML, CSS, Bootstrap, and various frontend frameworks allows me to craft visually appealing and user-friendly interfaces.
+<p><b> Frontend Mastery:</b> Proficiency in HTML, CSS, Bootstrap, and various frontend frameworks allows me to craft visually appealing and user-friendly interfaces.</p>
 
-<b> Web Application Expertise:</b> Whether it's developing, redesigning, or customizing web applications, I have experience ensuring top-notch results.
+<p><b> Web Application Expertise:</b> Whether it's developing, redesigning, or customizing web applications, I have experience ensuring top-notch results.</p>
 
-<b> Web Design and Conversion:</b>  I excel in web design, seamlessly converting designs from PSD to HTML and even to content management systems (CMS) for a polished online presence.
+<p><b> Web Design and Conversion:</b>  I excel in web design, seamlessly converting designs from PSD to HTML and even to content management systems (CMS) for a polished online presence.</p>
 
-<b> Graphic Design and Video Editing:</b> Beyond coding, I have creative talents that shine in graphic design and video editing, adding a layer of visual appeal and professionalism to projects.
+<p><b> Graphic Design and Video Editing:</b> Beyond coding, I have creative talents that shine in graphic design and video editing, adding a layer of visual appeal and professionalism to projects.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
