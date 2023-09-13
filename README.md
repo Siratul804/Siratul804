@@ -5,7 +5,7 @@
 <br/>
 <b> Specialization in JavaScript & React:</b> I am an expert in JavaScript and its popular library, React, making them adept at building dynamic and interactive web applications.
 
-<div></div>
+<br/>
 
 <b> Full-Stack Proficiency:</b> With knowledge of Node.js, Express.js, MongoDB, and MySQL I possess the skills to develop robust, scalable, and efficient web applications.
 
