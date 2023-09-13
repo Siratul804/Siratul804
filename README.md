@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Siratul Islam</h1>
-<br/>
+
 <h3 align="center">As a software developer, <br/> I have the power to create tools and solutions that simplify and improve people's lives.</h3>
 <br/>
 <b> Specialization in JavaScript & React: </b> I am an expert in JavaScript and its popular library, React, making them adept at building dynamic and interactive web applications.
