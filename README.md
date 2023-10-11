@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siratul Islam</h1>
 <h3 align="center">As a software developer, I have the power to create tools and solutions that simplify and improve people's lives.</h3>
 
-- 👨‍💻 All of my projects are available at [https://siratul.vercel.app/projects](https://siratul.vercel.app/projects)
+- 👨‍💻 All of my projects are available at [https://siratul.vercel.app/projects](https://siratul.vercel.app/#projects)
 
 - 💬 Ask me about **Next.js**
 
