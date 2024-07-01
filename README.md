@@ -13,58 +13,6 @@
 - 📫 How to reach me **islamsiratul@gmail.com**
 
 
-<h3 align="left">Connect with me:</h3>
- <p align="left">
-        <a
-          href="https://linkedin.com/in/https://www.linkedin.com/in/siratulislam/"
-          target="blank"
-          ><img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="https://www.linkedin.com/in/siratulislam/"
-            height="60"
-            width="60"
-        /></a>
-        <a
-          href="https://fb.com/https://www.facebook.com/siratul.islam.31/"
-          target="blank"
-          ><img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-            alt="https://www.facebook.com/siratul.islam.31/"
-            height="60"
-            width="60"
-        /></a>
-        <a
-          href="https://www.youtube.com/c/https://www.youtube.com/channel/uc0h9fyzlhzkz6rq5fkqh35q"
-          target="blank"
-          ><img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-            alt="https://www.youtube.com/channel/uc0h9fyzlhzkz6rq5fkqh35q"
-            height="60"
-            width="60"
-        /></a>
-        <a href="https://twitter.com/https://x.com/siratul074" target="blank"
-          ><img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            alt="https://x.com/siratul074"
-            height="60"
-            width="60"
-        /></a>
-        <a
-          href="https://stackoverflow.com/users/https://stackoverflow.com/users/14835230/siratul-islam"
-          target="blank"
-          ><img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-            alt="https://stackoverflow.com/users/14835230/siratul-islam"
-            height="60"
-            width="60"
-        /></a>
-      </p>
-
 <h3 align="left">Languages and Tools:</h3>
  <p align="left">
         <a
@@ -261,4 +209,56 @@
           src="https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-2151005751.jpg?t=st=1719820041~exp=1719823641~hmac=52e45aa4fffb365b4f54862889c39de73d6ee6e76403be6afe3a7fea03aae6c4&w=1800"
           alt="siratul804"
         />
+      </p>
+
+      <h3 align="left">Connect with me:</h3>
+ <p align="left">
+        <a
+          href="https://linkedin.com/in/https://www.linkedin.com/in/siratulislam/"
+          target="blank"
+          ><img
+            align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+            alt="https://www.linkedin.com/in/siratulislam/"
+            height="60"
+            width="60"
+        /></a>
+        <a
+          href="https://fb.com/https://www.facebook.com/siratul.islam.31/"
+          target="blank"
+          ><img
+            align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+            alt="https://www.facebook.com/siratul.islam.31/"
+            height="60"
+            width="60"
+        /></a>
+        <a
+          href="https://www.youtube.com/c/https://www.youtube.com/channel/uc0h9fyzlhzkz6rq5fkqh35q"
+          target="blank"
+          ><img
+            align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
+            alt="https://www.youtube.com/channel/uc0h9fyzlhzkz6rq5fkqh35q"
+            height="60"
+            width="60"
+        /></a>
+        <a href="https://twitter.com/https://x.com/siratul074" target="blank"
+          ><img
+            align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+            alt="https://x.com/siratul074"
+            height="60"
+            width="60"
+        /></a>
+        <a
+          href="https://stackoverflow.com/users/https://stackoverflow.com/users/14835230/siratul-islam"
+          target="blank"
+          ><img
+            align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
+            alt="https://stackoverflow.com/users/14835230/siratul-islam"
+            height="60"
+            width="60"
+        /></a>
       </p>
