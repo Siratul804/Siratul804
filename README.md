@@ -21,7 +21,7 @@
   <p>
         <img
           align="center"
-          width="500"
+          width="1000"
           height="auto"
           src="https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-2151005751.jpg?t=st=1719820041~exp=1719823641~hmac=52e45aa4fffb365b4f54862889c39de73d6ee6e76403be6afe3a7fea03aae6c4&w=1800"
           alt="siratul804"
