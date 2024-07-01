@@ -21,7 +21,9 @@
   <p>
         <img
           align="center"
-          src="https://img.freepik.com/free-vector/male-programmer-working-computer-office-wall-with-hanging-reminder-stickers-developer-creating-new-software-interface-coding-programming-system-administrator-designer-character_575670-1159.jpg?t=st=1696233032~exp=1696233632~hmac=da33b438ebc604b49755a27e74a05217ec6afa1c6bbb03d67febbe1f6f4496f2"
+          width="500"
+          height="auto"
+          src="https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-2151005751.jpg?t=st=1719820041~exp=1719823641~hmac=52e45aa4fffb365b4f54862889c39de73d6ee6e76403be6afe3a7fea03aae6c4&w=1800"
           alt="siratul804"
         />
       </p>
