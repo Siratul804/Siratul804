@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">As a Software Developer, I have the power to create tools and solutions that simplify and improve people's lives. Over 3+ years of experience, my work can streamline business processes, enhance communication, automate tasks, and make information accessible to everyone.<br><br>👨‍💻 My Website: https://siratul.netlify.app/<br><br>💬 Ask me about <b>Next.js</b></p>
+<p align="left">As a Software Developer, I have the power to create tools and solutions that simplify and improve people's lives. Over 3+ years of experience, my work can streamline business processes, enhance communication, automate tasks, and make information accessible to everyone.<br><br>👨‍💻 My Website: https://siratul.netlify.app/<br><br>💬 Ask me about <b> Next.js </b></p>
 
 ###
 
@@ -113,5 +113,11 @@
 ###
 
 <img align="left" height="200" src="https://media1.tenor.com/m/Jgb0i6g2NXkAAAAd/multiversx-blazzord.gif"  />
+
+###
+
+<div align="center">
+  <img height="160" src="https://media1.tenor.com/m/CzdMW7wnLn8AAAAC/coding.gif"  />
+</div>
 
 ###
