@@ -112,10 +112,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/Nl3-2uhn1TAAAAAi/wave-hello.gif"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/Siratul804/Siratul804/output/snake.svg" alt="Snake animation" />
+<img align="left" height="200" src="https://media1.tenor.com/m/Jgb0i6g2NXkAAAAd/multiversx-blazzord.gif"  />
 
 ###
