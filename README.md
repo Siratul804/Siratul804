@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">As a Software Developer, I have the power to create tools and solutions that simplify and improve people's lives. Over 3+ years of experience, my work can streamline business processes, enhance communication, automate tasks, and make information accessible to everyone.<br><br>👨‍💻 My Website: https://siratul.netlify.app/<br><br>💬 Ask me about Next.js</p>
+<p align="left">As a Software Developer, I have the power to create tools and solutions that simplify and improve people's lives. Over 3+ years of experience, my work can streamline business processes, enhance communication, automate tasks, and make information accessible to everyone.<br><br>👨‍💻 My Website: https://siratul.netlify.app/<br><br>💬 Ask me about <b>Next.js</b></p>
 
 ###
 
