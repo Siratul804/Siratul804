@@ -15,9 +15,7 @@
   <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://js.langchain.com/img/brand/wordmark-dark.png" height="25" alt="langchainjs logo"  />
-  <img width="12" />
+  <img width="12" />  
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="30" alt="postgresql logo"  />
@@ -40,5 +38,8 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo"  />
 </div>
+<div align="center">
+  <img src="https://js.langchain.com/img/brand/wordmark-dark.png" height="25" alt="langchainjs logo"  /> 
+ </div>
 
 ###
