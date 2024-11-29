@@ -16,7 +16,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://js.langchain.com/img/brand/wordmark-dark.png" height="30" alt="langchainjs logo"  />
+  <img src="https://js.langchain.com/img/brand/wordmark-dark.png" height="25" alt="langchainjs logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql logo"  />
   <img width="12" />
