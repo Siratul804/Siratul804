@@ -1,29 +1,7 @@
-<div align="center">
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Siratul804&show_icons=false&theme=dark&rank_icon=github&include_all_commits=true&hide=stars,commits,prs,issues,contribs"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Siratul804&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="" />
-</picture>
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Siratul804&layout=compact"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Siratul804&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="" />
-</picture> 
+<div align="center"  >
+  <img src="https://github-readme-stats.vercel.app/api?username=Siratul804&hide=stars,prs,issues&theme=dark&rank_icon=github&include_all_commits=true&show=prs_merged_percentage" alt="Siratul's GitHub stats" />
 </div>
-
-###
+<br><br>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -58,7 +36,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo"  />
 </div>
-
-<div align="center" style="margin: 30px;">
+<br>
+<div align="center" >
   <img src="https://js.langchain.com/img/brand/wordmark-dark.png" height="25" alt="langchainjs logo" />
 </div>
