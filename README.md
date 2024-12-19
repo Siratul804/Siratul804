@@ -1,6 +1,26 @@
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Siratul804&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Siratul804&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Siratul804&show_icons=false&theme=dark&rank_icon=github&include_all_commits=true&hide=stars,commits,prs,issues,contribs"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Siratul804&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="" />
+</picture>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Siratul804&layout=compact"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Siratul804&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="" />
+</picture> 
 </div>
 
 ###
@@ -38,8 +58,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo"  />
 </div>
-<div align="center">
-  <img src="https://js.langchain.com/img/brand/wordmark-dark.png" height="25" alt="langchainjs logo"  /> 
- </div>
 
-###
+<div align="center" style="margin: 30px;">
+  <img src="https://js.langchain.com/img/brand/wordmark-dark.png" height="25" alt="langchainjs logo" />
+</div>
