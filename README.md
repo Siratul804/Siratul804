@@ -39,4 +39,10 @@
 <br>
 <div align="center" >
   <img src="https://js.langchain.com/img/brand/wordmark-dark.png" height="25" alt="langchainjs logo" />
+   <img width="12" />
+    <img src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" height="35" alt="ChatGPT logo" />
+   <img width="12" />
+  <img src="https://pbs.twimg.com/profile_images/1860022818404007936/uFVeRj1v_400x400.jpg" height="35" alt="langchainjs logo" />
+   <img width="12" />
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-gemini-icon.png" height="35" alt="langchainjs logo" />
 </div>
