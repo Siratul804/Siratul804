@@ -1,49 +1,63 @@
-<div align="center"  >
-  <img src="https://github-readme-stats.vercel.app/api?username=Siratul804&hide=stars,prs,issues&theme=dark&rank_icon=github&include_all_commits=true&show=prs_merged_percentage" alt="Siratul's GitHub stats" />
-</div>
-<br><br>
+<h2> Hi, I'm Siratul! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> </h2>
+<img align='right' src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500">
+<p><em>Software Developer at <a href="https://www.grit.com.bd/">Grit System</a></br>Former Web Developer  at <a href="https://github.com/Siratul804/Siratul804/edit/main/README.md">Seed to BIG</a>
+</em></p>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
-  <img width="12" />  
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="30" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="30" alt="netlify logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo"  />
-</div>
-<br>
-<div align="center" >
-  <img src="https://js.langchain.com/img/brand/wordmark-dark.png" height="25" alt="langchainjs logo" />
-<!--    <img width="12" />
-    <img src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" height="35" alt="ChatGPT logo" />
-   <img width="12" />
-  <img src="https://ollama.com/public/ollama.png" height="35" alt="langchainjs logo" />
-   <img width="12" />
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-gemini-icon.png" height="35" alt="langchainjs logo" /> -->
-  
-</div>
+
+[![GitHub Thaiane](https://img.shields.io/github/followers/Siratul804?label=follow&style=social)](https://github.com/Siratul804)
+[![Twitter: SiratulIslam](https://img.shields.io/twitter/follow/Siratul074?style=social)](https://x.com/Siratul074)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-siratulislam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/siratulislam/)](https://www.linkedin.com/in/siratulislam/)
+
+### Programming Languages
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B&logoColor=00599C)
+![C](https://img.shields.io/badge/-C-000?&logo=C&logoColor=239120)
+
+### Frontend Development
+
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000?&logo=Tailwind%20CSS)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
+
+### Backend & Cloud
+
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
+![Langchain](https://img.shields.io/badge/-LangChain-000?&logo=LangChain)
+
+### Database
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+![Supabase](https://img.shields.io/badge/-Supabase-000?&logo=Supabase)
+
+###  Tools
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
+
+### Mobile Development
+
+
+![React Native](https://img.shields.io/badge/-React_Native-000?&logo=React)
+![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white)
+
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siratul804&layout=compact&theme=dark" alt="Top Languages" style="margin-right: 10px;">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Siratul804&hide=stars,prs,issues&theme=dark&rank_icon=github&include_all_commits=true&show=prs_merged_percentage" alt="Siratul's GitHub stats">
+</p>
+
+<p align="center">
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+</p>
