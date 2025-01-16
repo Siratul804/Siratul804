@@ -58,6 +58,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Siratul804&hide=stars,prs,issues&theme=dark&rank_icon=github&include_all_commits=true&show=prs_merged_percentage" alt="Siratul's GitHub stats">
 </p>
 
-<p align="center">
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-</p>
