@@ -55,6 +55,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siratul804&layout=compact&theme=dark" alt="Top Languages" style="margin-right: 10px;">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Siratul804&hide=stars,prs,issues&theme=dark&rank_icon=github&include_all_commits=true&show=prs_merged_percentage" alt="Siratul's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Siratul804&hide=prs,commits&theme=dark&rank_icon=github&include_all_commits=true&show=prs_merged_percentage" alt="Siratul's GitHub stats">
 </p>
 
