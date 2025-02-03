@@ -15,19 +15,13 @@
 ![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B&logoColor=00599C)
 ![C](https://img.shields.io/badge/-C-000?&logo=C&logoColor=239120)
 
-### Frontend Development
-
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000?&logo=Tailwind%20CSS)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
-
 ### Backend & Cloud
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
 ![Langchain](https://img.shields.io/badge/-LangChain-000?&logo=LangChain)
+![Langchain](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 
 ### Database
 
@@ -35,6 +29,14 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 ![Supabase](https://img.shields.io/badge/-Supabase-000?&logo=Supabase)
+
+
+### Frontend Development
+
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000?&logo=Tailwind%20CSS)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
 
 ###  Tools
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
