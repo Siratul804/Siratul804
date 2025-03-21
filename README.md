@@ -20,8 +20,10 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
+![Socket.io](https://img.shields.io/badge/-Socket-000?&logo=Socket)
 ![Langchain](https://img.shields.io/badge/-LangChain-000?&logo=LangChain)
 ![Langchain](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+
 
 ### Database
 
