@@ -47,6 +47,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
+![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest)
 
 ### Mobile Development
 
