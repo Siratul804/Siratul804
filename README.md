@@ -24,7 +24,8 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
 ![Socket.io](https://img.shields.io/badge/-Socket-000?&logo=Socket)
 ![Langchain](https://img.shields.io/badge/-LangChain-000?&logo=LangChain)
-![Langchain](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon%20AWS)
 
 
 ### Database
