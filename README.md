@@ -3,6 +3,8 @@
 <p><em>Software Developer at <a href="https://www.grit.com.bd/">Grit System</a></br>Former Web Developer  at <a href="https://github.com/Siratul804/Siratul804/edit/main/README.md">Seed to BIG</a>
 </em></p>
 
+
+
 ### 🏆 Achievements
 
 - 🥇 **Champion** – Software Showcase  
@@ -16,6 +18,8 @@
 
 - 🎖️ **4th Place** – Hackathon  
   <strong>MIST Innovation Club – </strong>   <a href="https://www.linkedin.com/posts/sultana-rupa-3662a3318_we-the-mavericks-participated-in-the-mist-activity-7304528490811269121-u0cB?utm_source=share&utm_medium=member_desktop&rcm=ACoAADQCxKkBKANerbQ4qZ1WctORVcBOKQpnjEU">NEOFETCH Hackathon</a>  <sub>(March 2025) </sub>
+
+<br/>
 
 ---
 
