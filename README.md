@@ -5,8 +5,6 @@
 
 ### 🏆 Achievements
 
-> 🚀 *Pushing boundaries through innovation and teamwork.*
-
 - 🥇 **Champion** – Software Showcase  
     <strong>UAP SNH Club – </strong>   <a href="https://www.linkedin.com/posts/siratulislam_hackathon-softwareshowcase-teamwork-activity-7327319864807751680-Y3eC?utm_source=share&utm_medium=member_desktop&rcm=ACoAADQCxKkBKANerbQ4qZ1WctORVcBOKQpnjEU">INNOVATEX 2025</a>  <sub>(May 2025) </sub>
 
