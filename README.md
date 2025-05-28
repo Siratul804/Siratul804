@@ -1,8 +1,25 @@
 <h2> Hi, I'm Siratul! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> </h2>
 <img align='right' src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500">
-<p><em>Software Developer at <a href="https://www.grit.com.bd/">Grit System</a></br>Former Web Developer  at <a href="https://github.com/Siratul804/Siratul804/edit/main/README.md">Seed to BIG</a>
+<p><em>Software Developer at <a href="https://www.grit.com.bd/">Grit System</a></br>Former Web Developer  at <a href="https://github.com/Siratul804/Siratul804/edit/main/README.md">Seed to BIG</a>
 </em></p>
 
+### 🏆 Achievements
+
+> 🚀 *Pushing boundaries through innovation and teamwork.*
+
+- 🥇 **Champion** – Software Showcase  
+    <strong>UAP SNH Club – </strong>   <a href="https://www.linkedin.com/posts/siratulislam_hackathon-softwareshowcase-teamwork-activity-7327319864807751680-Y3eC?utm_source=share&utm_medium=member_desktop&rcm=ACoAADQCxKkBKANerbQ4qZ1WctORVcBOKQpnjEU">INNOVATEX 2025</a>  <sub>(May 2025) </sub>
+
+- 🥈 **1st Runners-Up** – Hackathon  
+  <strong>UAP SNH Club – </strong>   <a href="https://www.linkedin.com/posts/siratulislam_hackathon-softwareshowcase-teamwork-activity-7327319864807751680-Y3eC?utm_source=share&utm_medium=member_desktop&rcm=ACoAADQCxKkBKANerbQ4qZ1WctORVcBOKQpnjEU">INNOVATEX 2025</a>  <sub>(May 2025) </sub>
+
+- 🥈 **1st Runners-Up** – Ideathon  
+ <strong>UAP ECDC Club – </strong>   <a href="https://www.linkedin.com/posts/sultana-rupa-3662a3318_whirlwind-of-an-experience-at-ecdccapped-activity-7328796614574166016-zmTm?utm_source=share&utm_medium=member_desktop&rcm=ACoAADQCxKkBKANerbQ4qZ1WctORVcBOKQpnjEU">IDEA Season 4.0</a>  <sub>(May 2025) </sub>
+
+- 🎖️ **4th Place** – Hackathon  
+  <strong>MIST Innovation Club – </strong>   <a href="https://www.linkedin.com/posts/sultana-rupa-3662a3318_we-the-mavericks-participated-in-the-mist-activity-7304528490811269121-u0cB?utm_source=share&utm_medium=member_desktop&rcm=ACoAADQCxKkBKANerbQ4qZ1WctORVcBOKQpnjEU">NEOFETCH Hackathon</a>  <sub>(March 2025) </sub>
+
+---
 
 [![GitHub Thaiane](https://img.shields.io/github/followers/Siratul804?label=follow&style=social)](https://github.com/Siratul804)
 [![Twitter: SiratulIslam](https://img.shields.io/twitter/follow/Siratul074?style=social)](https://x.com/Siratul074)
@@ -43,7 +60,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000?&logo=Tailwind%20CSS)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
 
-###  Tools
+###  Tools
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
@@ -61,11 +78,11 @@
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siratul804&layout=compact&theme=dark" alt="Top Languages" style="margin-right: 10px;">
-  
-  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siratul804&layout=compact&theme=dark" alt="Top Languages" style="margin-right: 10px;">
+  
+  <br>
 
-  <a href="https://git.io/streak-stats">
-    <img src="https://nirzak-streak-stats.vercel.app?user=Siratul804&theme=dark" alt="GitHub Streak">
-  </a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://nirzak-streak-stats.vercel.app?user=Siratul804&theme=dark" alt="GitHub Streak">
+  </a>
 </div>
