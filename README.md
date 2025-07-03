@@ -34,12 +34,14 @@
 ![Java](https://img.shields.io/badge/Java-000?logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B&logoColor=00599C)
 ![C](https://img.shields.io/badge/-C-000?&logo=C&logoColor=239120)
+![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
 
 
 ### Backend & Cloud
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+![Gin](https://img.shields.io/badge/-Gin-000?&logo=Gin)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
 ![Socket.io](https://img.shields.io/badge/-Socket-000?&logo=Socket)
 ![Langchain](https://img.shields.io/badge/-LangChain-000?&logo=LangChain)
