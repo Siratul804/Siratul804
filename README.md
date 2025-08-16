@@ -1,6 +1,6 @@
 <h2> Hi, I'm Siratul! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> </h2>
 <img align='right' src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500">
-<p><em>Software Developer at <a href="https://www.grit.com.bd/">Grit System</a></br>Former Web Developer  at <a href="https://github.com/Siratul804/Siratul804/edit/main/README.md">Seed to BIG</a>
+<p><em>Former Full Stack Developer at <a href="https://www.grit.com.bd/">Grit System</a></br>Former Web Developer  at <a href="https://github.com/Siratul804/Siratul804/edit/main/README.md">Seed to BIG</a>
 </em></p>
 
 
