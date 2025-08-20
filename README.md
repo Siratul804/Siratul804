@@ -47,6 +47,7 @@
 ![Langchain](https://img.shields.io/badge/-LangChain-000?&logo=LangChain)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon%20AWS)
+![Appwrite](https://img.shields.io/badge/-appwrite-000?&logo=appwrite)
 
 
 ### Database
