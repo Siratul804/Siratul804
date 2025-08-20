@@ -61,6 +61,7 @@
 
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+![Svelte](https://img.shields.io/badge/-svelte-000?&logo=svelte)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000?&logo=Tailwind%20CSS)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
 
