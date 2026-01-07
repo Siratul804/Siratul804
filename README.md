@@ -10,7 +10,6 @@
   <a href="https://www.grit.com.bd/">Grit System</a>
 </p>
 
-<hr/>
 
 ### About Me
 
