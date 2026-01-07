@@ -51,6 +51,7 @@ I am a **Full-Stack Software Engineer with over 5 years of experience**. I speci
 - LinkedIn: <a href="https://www.linkedin.com/in/siratulislam/">linkedin.com/in/siratulislam</a>
 - GitHub: <a href="https://github.com/Siratul804">github.com/Siratul804</a>  
 - X (Twitter): <a href="https://x.com/Siratul074">x.com/Siratul074</a>  
+- Youtube: <a href="https://www.youtube.com/channel/UC0h9fyZlhZKZ6Rq5FKQH35Q">youtube.com/siratulislam6316</a>  
 
 
 
