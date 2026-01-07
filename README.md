@@ -4,13 +4,6 @@
   <b>Co-founder & CTO | Full-Stack Software Engineer</b>
 </p>
 
-<p align="center">
-  <a href="https://www.mytwicket.com/">MyTwicket</a> ·
-  <a href="https://www.facebook.com/p/Novion-Soft-61576559310102/">Novion Soft</a> ·
-  <a href="https://www.grit.com.bd/">Grit System</a>
-</p>
-
-
 ### About Me
 
 I am a **Full-Stack Software Engineer with over 5 years of experience**. I specialize in building **scalable applications** and cloud-ready systems. My core expertise includes **JavaScript, TypeScript, Node.js, and Next.js**. I focus on creating software that is **easy to use, reliable, and performs seamlessly in cloud environments**.
