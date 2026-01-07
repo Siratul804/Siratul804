@@ -18,7 +18,7 @@ I am a **Full-Stack Software Engineer with over 5 years of experience**. I speci
 - Co-founder & CTO at <a href="https://www.mytwicket.com/">MyTwicket</a>  
 - Software Developer at <a href="https://www.facebook.com/p/Novion-Soft-61576559310102/">Novion Soft</a>  
 - Former Full Stack Developer at <a href="https://www.grit.com.bd/">Grit System</a>  
-- Former Web Developer at Seed to BIG  
+- Former Web Developer at  <a href="https://www.facebook.com/seedtobig">Seed to BIG</a>    
 
 ---
 
