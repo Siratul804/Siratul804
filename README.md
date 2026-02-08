@@ -1,13 +1,10 @@
 <h1 align="center">Hi, I'm Siratul</h1>
 
 <p align="center">
-  <b>Co-founder & CTO | Full-Stack Software Engineer</b>
+  <b>Business Systems Architect | Building Unified Operations Platforms</b>
 </p>
 
 ### About Me
-
-I am a **Full-Stack Software Engineer with over 5 years of experience**. I specialize in building **scalable applications** and cloud-ready systems. My core expertise includes **JavaScript, TypeScript, Node.js, and Next.js**. I focus on creating software that is **easy to use, reliable, and performs seamlessly in cloud environments**.
-
 - Co-founder & CTO at <a href="https://www.mytwicket.com/">MyTwicket</a>  
 - Former Full Stack Developer at <a href="https://www.grit.com.bd/">Grit System</a>  
 - Former Web Developer at  <a href="https://www.facebook.com/seedtobig">Seed to BIG</a>    
