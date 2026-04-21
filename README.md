@@ -5,6 +5,7 @@
 </p>
 
 ### About Me
+- Founder of <a href="https://nextboxnetwork.com/">Nextbox Network</a>  
 - Co-founder & CTO at <a href="https://www.mytwicket.com/">MyTwicket</a>  
 - Former Full Stack Developer at <a href="https://www.grit.com.bd/">Grit System</a>  
 - Former Web Developer at  <a href="https://www.facebook.com/seedtobig">Seed to BIG</a>    
