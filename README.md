@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Siratul</h1>
 
 <p align="center">
-  <b>Business Systems Architect | Building Unified Operations Platforms</b>
+  <b>Business Systems Architect | Building Unified AI & Full stack Solutions for Scalable Growth</b>
 </p>
 
 ### About Me
