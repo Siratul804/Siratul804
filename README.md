@@ -23,7 +23,7 @@
   <sub>May 2025</sub>
 
 - 🥈 **1st Runners-Up – Ideathon Competition**  
-  UAP CDC Club · <a href="https://www.linkedin.com/posts/siratulislam_for-the-last-few-weeks-the-workload-has-ugcPost-7463975791781908481-BzR3/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADQCxKkBKANerbQ4qZ1WctORVcBOKQpnjEU">Pitch Plan Prosper Ideation</a>  
+  UAP CDC Club · <a href="https://www.linkedin.com/posts/siratulislam_for-the-last-few-weeks-the-workload-has-ugcPost-7463975791781908481-BzR3/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADQCxKkBKANerbQ4qZ1WctORVcBOKQpnjEU">Inter Ideation 4.0</a>  
   <sub>May 2026</sub>
 
 - 🥈 **1st Runners-Up – Hackathon**  
