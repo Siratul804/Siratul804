@@ -5,7 +5,9 @@
 </p>
 
 ### About Me
-- Former Founder of <a href="https://www.linkedin.com/company/nextboxnetwork/home/">Nextbox Network</a>  
+
+- Founder & CEO at <a href="https://www.onemindhq.com/">OneMind Systems</a>  
+- Former Founder at <a href="https://www.linkedin.com/company/nextboxnetwork/home/">Nextbox Network</a>  
 - Former Co-founder & CTO at <a href="https://www.linkedin.com/company/twicket/home/">MyTwicket</a>  
 - Former Full Stack Developer at <a href="https://www.grit.com.bd/">Grit System</a>  
 - Former Web Developer at  <a href="https://www.facebook.com/seedtobig">Seed to BIG</a>    
